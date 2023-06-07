@@ -10,11 +10,18 @@ Formation portée par CNRS-Délégation Bretagne et Pays de la Loire (1er et 2 j
 ## Programme de la formation
 
 #### JOUR 1 - VISUALISATION DES DONNEES (7h)
+
+![alt text](https://raw.githubusercontent.com/magisAR9/JEGeovizRennes/main/VisuelJE_Rennes.PNG)
+
+
 * Introduction à la visualisation de données dans des contextes de recherche
 * Manipulation de jeux de données pour leur visualisation (RawGraph, Flourish, Chart.js)
 * Exploration et valorisation de jeux de données des participants
 
 ### JOUR 2 – GEOVISUALISATION DES DONNES (7h) 
+
+![alt text](https://raw.githubusercontent.com/magisAR9/JEGeovizRennes/main/VisuelJE_Rennes.PNG)
+
 * Introduction à la géovisualisation de données dans des contextes de recherche
 * Exploration de solutions de géovisualisation de données (Kepler.gl, Deck.gl, Leaflet et Maplibre)
 * Travail de géovisualisation de jeux de données des participants

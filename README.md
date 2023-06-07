@@ -14,7 +14,7 @@ Formation portée par CNRS-Délégation Bretagne et Pays de la Loire (1er et 2 j
 ![alt text](https://raw.githubusercontent.com/bmericskay/Geo_Visualisation_CNRS/main/Dataviz.PNG)
 
 
-[Présentation](https://raw.githubusercontent.com/bmericskay/Geo_Visualisation_CNRS/main/Intro_Visualisation de données.pdf)
+[Présentation](https://github.com/bmericskay/Geo_Visualisation_CNRS/blob/main/Intro_Visualisation%20de%20donn%C3%A9es.pdf)
 
 
 * Introduction à la visualisation de données dans des contextes de recherche

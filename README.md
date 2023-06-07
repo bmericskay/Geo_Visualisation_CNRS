@@ -12,7 +12,7 @@ Formation portée par CNRS-Délégation Bretagne et Pays de la Loire (1er et 2 j
 #### JOUR 1 - VISUALISATION DES DONNEES (7h)
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/bmericskay/Geo_Visualisation_CNRS/main/Dataviz.PNG" alt="Description de l'image" width="400"/>
+<img src="https://raw.githubusercontent.com/bmericskay/Geo_Visualisation_CNRS/main/Dataviz.PNG" alt="Description de l'image" width="600"/>
 </p>
 
 
@@ -26,8 +26,9 @@ Formation portée par CNRS-Délégation Bretagne et Pays de la Loire (1er et 2 j
 
 ### JOUR 2 – GEOVISUALISATION DES DONNES (7h) 
 
-<img src="https://raw.githubusercontent.com/bmericskay/Geo_Visualisation_CNRS/main/geoviz.PNG" alt="Description de l'image" width="400"/>
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/bmericskay/Geo_Visualisation_CNRS/main/geoviz.PNG" alt="Description de l'image" width="600"/>
+</p>
 
 * Introduction à la géovisualisation de données dans des contextes de recherche
 * Exploration de solutions de géovisualisation de données (Kepler.gl, Deck.gl, Leaflet et Maplibre)

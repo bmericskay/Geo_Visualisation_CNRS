@@ -13,7 +13,7 @@ Formation portée par CNRS-Délégation Bretagne et Pays de la Loire (1er et 2 j
 
 ![alt text](https://raw.githubusercontent.com/bmericskay/Geo_Visualisation_CNRS/main/Intro_Geovisualisation.pdf)
 
-[Présentation (pdf)](https://raw.githubusercontent.com/bmericskay/Geo_Visualisation_CNRS/main/Intro_Visualisation de données.pdf)
+[Présentation en pdf](https://raw.githubusercontent.com/bmericskay/Geo_Visualisation_CNRS/main/Intro_Visualisation de données.pdf)
 
 
 * Introduction à la visualisation de données dans des contextes de recherche
@@ -28,5 +28,5 @@ Formation portée par CNRS-Délégation Bretagne et Pays de la Loire (1er et 2 j
 * Exploration de solutions de géovisualisation de données (Kepler.gl, Deck.gl, Leaflet et Maplibre)
 * Travail de géovisualisation de jeux de données des participants
 
-[Présentation (pdf)]([https://observablehq.com/@neocartocnrs/carpooling](https://raw.githubusercontent.com/bmericskay/Geo_Visualisation_CNRS/main/Intro_Geovisualisation.pdf))
+[Présentation en pdf]([https://observablehq.com/@neocartocnrs/carpooling](https://raw.githubusercontent.com/bmericskay/Geo_Visualisation_CNRS/main/Intro_Geovisualisation.pdf))
 

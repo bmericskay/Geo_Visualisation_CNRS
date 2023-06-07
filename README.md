@@ -13,9 +13,8 @@ Formation portée par CNRS-Délégation Bretagne et Pays de la Loire (1er et 2 j
 
 ![alt text](https://raw.githubusercontent.com/bmericskay/Geo_Visualisation_CNRS/main/Dataviz.PNG)
 
-[Arabesque](https://github.com/magisAR9/JEGeovizRennes/blob/main/Pr%C3%A9sentations/Arabesque_magis_Rennes_janv_2023.pdf)
 
-[Présentation](https://raw.githubusercontent.com/bmericskay/Geo_Visualisation_CNRS/main/Intro_Visualisation de données.pdf)
+[Présentation](https://raw.githubusercontent.com/bmericskay/Geo_Visualisation_CNRS/main/Intro_Visualisation de données.pdf](https://github.com/bmericskay/Geo_Visualisation_CNRS/blob/main/Intro_Geovisualisation.pdf)
 
 
 * Introduction à la visualisation de données dans des contextes de recherche

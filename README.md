@@ -11,9 +11,9 @@ Formation portée par CNRS-Délégation Bretagne et Pays de la Loire (1er et 2 j
 
 #### JOUR 1 - VISUALISATION DES DONNEES (7h)
 
-
-<img src="https://raw.githubusercontent.com/bmericskay/Geo_Visualisation_CNRS/main/Dataviz.PNG" alt="Description de l'image" style="display: block; margin-left: auto; margin-right: auto;"/>
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/bmericskay/Geo_Visualisation_CNRS/main/Dataviz.PNG" alt="Description de l'image" width="400"/>
+</p>
 
 
 

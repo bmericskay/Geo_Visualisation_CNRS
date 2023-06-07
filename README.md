@@ -20,7 +20,7 @@ Formation portée par CNRS-Délégation Bretagne et Pays de la Loire (1er et 2 j
 * Introduction à la visualisation de données en JavaScript avec chart.js
 * Exploration et valorisation de jeux de données des participants
 
-[Présentation en PDF](https://github.com/bmericskay/Geo_Visualisation_CNRS/blob/main/Intro_Visualisation%20de%20donn%C3%A9es.pdf)
+[Télécharger le support de formation en PDF](https://github.com/bmericskay/Geo_Visualisation_CNRS/blob/main/Intro_Visualisation%20de%20donn%C3%A9es.pdf)
 
 ### JOUR 2 – Introduction à la géovisualisation de données
 
@@ -34,5 +34,5 @@ Formation portée par CNRS-Délégation Bretagne et Pays de la Loire (1er et 2 j
 * Manipulation et géovisualisation de données sur le Web avec Kepler.gl
 * Travail de géovisualisation de jeux de données des participants
 
-[Présentation en pdf ](https://github.com/bmericskay/Geo_Visualisation_CNRS/blob/main/Intro_Geovisualisation.pdf)
+[Télécharger le support de formation en PDF](https://github.com/bmericskay/Geo_Visualisation_CNRS/blob/main/Intro_Geovisualisation.pdf)
 
